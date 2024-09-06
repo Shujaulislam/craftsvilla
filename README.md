@@ -26,10 +26,10 @@ This project is an implementation of an e-commerce landing page using modern web
 ### Installation
 1. Clone the repository
 
-git clone [https://github.com/your-username/astro-ecommerce-landing.git](https://github.com/your-username/astro-ecommerce-landing.git)
+git clone [https://github.com/Shujaulislam/craftsvilla](https://github.com/Shujaulislam/craftsvilla)
 
 2. Navigate to the project directory
-cd astro-ecommerce-landing
+cd craftsvilla
 
 3. Install dependencies
 npm install
@@ -75,4 +75,4 @@ This project can be easily deployed on [Vercel](https://vercel.com/), the platfo
 ## Contact
 [Shuja] - [shujaulisla@gmail.com]
 
-Project Link: [https://github.com/your-username/astro-ecommerce-landing](https://github.com/Shujaulislam/craftsvilla)
+Project Link: (https://github.com/Shujaulislam/craftsvilla)
