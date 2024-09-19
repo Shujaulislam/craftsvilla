@@ -70,7 +70,9 @@ To learn more about the technologies used in this project, check out the followi
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## Deployment
-This project can be easily deployed on [Vercel](https://vercel.com/), the platform created by the makers of Next.js.
+This project is deployed on [Vercel](https://vercel.com/), the platform created by the makers of Next.js.
+Deployed link - 
+[craftsvilla](https://craftsvilla-five.vercel.app/)
 
 ## Contact
 [Shuja] - [shujaulisla@gmail.com]
